@@ -16,7 +16,7 @@ Action Space:
 - [Model | Framing](#model)
 - [Inputs](#inputs)
 
-# Model (Framing)
+## Model (Framing)
 - Why? design a process for aggregation, collaboration, and consumption
 - How? Reversal (rearranged?) entropic flow via dialogue. 
 
@@ -25,7 +25,7 @@ Action Space:
 
 - Abstract: Input + Computation + Output => Concrete: twitter + gpt-3 + substack 
 
-# Inputs (ACTION HERE: Pull Request to add here)
+## Inputs (ACTION: Pull Request to add here)
 - https://delian.substack.com/p/quick-thoughts-on-gpt3
 - https://twitter.com/VitalikButerin/status/1284185128768503808
 - <add_here>
