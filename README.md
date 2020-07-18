@@ -25,6 +25,11 @@ Action Space:
 
 - Abstract: Input + Computation + Output => Concrete: twitter + gpt-3 + substack 
 
+> "I can easily see many jobs in the next 10-20 years changing their workflow to "human describes, AI builds, human debugs". - [Vitalik](https://twitter.com/VitalikButerin/status/1284185128768503808)
+
+Question: Should our default not always be debugging? Reasoning towards new commons grounds? Does tradition keep us bound or free us?
+Question: How does memory play a role in our ecological space of normative psychology?
+
 ## Inputs (ACTION: Pull Request to add here)
 - https://delian.substack.com/p/quick-thoughts-on-gpt3
 - https://twitter.com/VitalikButerin/status/1284185128768503808
