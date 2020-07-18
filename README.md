@@ -33,6 +33,7 @@ Question: How does memory play a role in our ecological space of normative psych
 ## Inputs (ACTION: Pull Request to add here)
 - https://delian.substack.com/p/quick-thoughts-on-gpt3
 - https://twitter.com/VitalikButerin/status/1284185128768503808
+- https://twitter.com/maraoz/status/1284556269785878528
 - <add_here>
 
 ## Contribute
