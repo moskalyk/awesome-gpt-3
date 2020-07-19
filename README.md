@@ -4,7 +4,7 @@
 Find it here: https://deep6.substack.com/p/coming-soon
 
 * Protoype: New interaction affordances for simulation exploration i.e. knowledge, wisdom, understanding, etc. 
-* Goal: Reveal new structure in dialogue experiements to discern more actionable insight for new civilization vistas & surfaces. 
+* Goal: Reveal new structure in dialogue experiments to discern more actionable insight for new civilization vistas & surfaces. 
 * Approach: Learning a path in a sequence of transitions via timely newsletter (email being a simple accessible interface, could emerge into something more [interactive](https://github.com/moskalyk/massively-multiplater-online-chat). 
 * Analog: Joining twitter, curating twitter account following, and consuming feed leading to new language, values, orientations, for those deviating from typical normalized binary planes. Might be seen as a multidimensional politcal walk re: [Horseshoe Theory](https://en.wikipedia.org/wiki/Horseshoe_theory)
 
