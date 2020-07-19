@@ -43,6 +43,7 @@ Question: How does memory & language play a role in our ecological space of norm
 - https://maraoz.com/2020/07/18/openai-gpt3/
 - https://www.techbeamers.com/sql-query-questions-answers-for-practice/
 - https://twitter.com/paraschopra/status/1284801028676653060
+- https://twitter.com/michael_nielsen/status/1284937254666768384
 
 - <add_here>
 
