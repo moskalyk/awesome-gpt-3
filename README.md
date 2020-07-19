@@ -39,6 +39,7 @@ Question: How does memory & language play a role in our ecological space of norm
 - https://twitter.com/maraoz/status/1284556269785878528
 - https://community.wolfram.com/groups/-/m/t/2037287
 - https://www.gwern.net/GPT-3
+- https://twitter.com/sh_reya/status/1284746918959239168
 
 - <add_here>
 
