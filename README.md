@@ -3,13 +3,16 @@
 
 Find it here: https://deep6.substack.com/p/coming-soon
 
-* Protoype: New interaction affordances for simulation detection i.e. knowledge, wisdom, etc. 
-* Goal: Reveal new structure in dialogue experiements to discern more actionable insight for new vistas & surfaces. 
-* Approach: Learning a path in a sequence of transitions via timely newsletter. 
-* Analog: Joining twitter, Curating twitter account following, and consuming feed.
+* Protoype: New interaction affordances for simulation exploration i.e. knowledge, wisdom, understanding, etc. 
+* Goal: Reveal new structure in dialogue experiements to discern more actionable insight for new civilization vistas & surfaces. 
+* Approach: Learning a path in a sequence of transitions via timely newsletter (email being a simple accessible interface, could emerge into something more (interactive)[https://github.com/moskalyk/massively-multiplater-online-chat]. 
+* Analog: Joining twitter, curating twitter account following, and consuming feed leading to new language, values, orientatations, for those deviating from typical normalized binary planes. Might be seen as a multidimensional politcal walk re: [Horseshoe Theory](https://en.wikipedia.org/wiki/Horseshoe_theory)
 
 Action Space:
+- Tinker with gpt-3 
 - Create Pull Request
+- List Experiment
+- Subscribe
 ...
 
 ## Contents
@@ -34,6 +37,9 @@ Question: How does memory & language play a role in our ecological space of norm
 - https://delian.substack.com/p/quick-thoughts-on-gpt3
 - https://twitter.com/VitalikButerin/status/1284185128768503808
 - https://twitter.com/maraoz/status/1284556269785878528
+- https://community.wolfram.com/groups/-/m/t/2037287
+- https://www.gwern.net/GPT-3
+
 - <add_here>
 
 ## Contribute
