@@ -3,16 +3,16 @@
 
 An awesome list of gpt-3 experiments + outputted newsletter. Find it here: https://deep6.substack.com/p/coming-soon
 
-Protoype: New interaction affordances for simulation detection i.e. knowledge, wisdom, etc. Goal: Reveal new structure in dialogue experiements to discern more actionable insight for new vistas & surfaces. Counter: Optical language flow funnelled attention into techno-slavery. Approach: Learning a path in a sequence of transitions via timely newsletter. Analog: Curated twitter account following and feed consumption.
+* Protoype: New interaction affordances for simulation detection i.e. knowledge, wisdom, etc. 
+* Goal: Reveal new structure in dialogue experiements to discern more actionable insight for new vistas & surfaces. 
+* Approach: Learning a path in a sequence of transitions via timely newsletter. 
+* Analog: Joining twitter, Curating twitter account following, and consuming feed.
 
 Action Space:
-
-- Discrete Thoughts (e.g. tweet)
 - Create Pull Request
 ...
 
 ## Contents
-
 - [Model | Framing](#model)
 - [Inputs](#inputs)
 
@@ -28,7 +28,7 @@ Action Space:
 > "I can easily see many jobs in the next 10-20 years changing their workflow to "human describes, AI builds, human debugs". - [Vitalik](https://twitter.com/VitalikButerin/status/1284185128768503808)
 
 Question: Should our default not always be debugging? Reasoning towards new commons grounds? Does tradition keep us bound or free us?
-Question: How does memory play a role in our ecological space of normative psychology?
+Question: How does memory & language play a role in our ecological space of normative psychology?
 
 ## Inputs (ACTION: Pull Request to add here)
 - https://delian.substack.com/p/quick-thoughts-on-gpt3
