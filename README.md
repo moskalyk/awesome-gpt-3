@@ -1,7 +1,7 @@
 # awesome-gpt-3 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > An awesome list of gpt-3 experiments + outputted newsletter.
 
-An awesome list of gpt-3 experiments + outputted newsletter. Find it here: https://deep6.substack.com/p/coming-soon
+Find it here: https://deep6.substack.com/p/coming-soon
 
 * Protoype: New interaction affordances for simulation detection i.e. knowledge, wisdom, etc. 
 * Goal: Reveal new structure in dialogue experiements to discern more actionable insight for new vistas & surfaces. 
