@@ -46,6 +46,7 @@ Question: How does memory & language play a role in our ecological space of norm
 - https://twitter.com/michael_nielsen/status/1284937254666768384
 - https://github.com/minimaxir/gpt-3-experiments
 - https://www.reddit.com/r/singularity/comments/htwexp/just_got_access_to_gpt3_let_me_know_if_you_want/
+- https://www.reddit.com/r/btc/comments/hsgeiw/my_conversation_with_openais_gpt3_on_the_future/
 - <add_here>
 
 ## Contribute
