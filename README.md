@@ -49,6 +49,7 @@ Question: How does memory & language play a role in our ecological space of norm
 - https://www.reddit.com/r/btc/comments/hsgeiw/my_conversation_with_openais_gpt3_on_the_future/
 - https://mercurialspace.substack.com/p/the-future-of-work-and-gpt-3
 - https://lambdalabs.com/blog/demystifying-gpt-3/
+- https://github.com/maraoz/gpt-scrolls
 - <add_here>
 
 ## Contribute
