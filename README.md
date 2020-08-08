@@ -52,6 +52,7 @@ Question: How does memory & language play a role in our ecological space of norm
 - https://github.com/maraoz/gpt-scrolls
 - https://arr.am/2020/07/25/gpt-3-uncertainty-prompts/
 - https://arr.am/2020/07/31/human-intelligence-an-ai-op-ed/
+- https://liamp.substack.com/p/my-gpt-3-blog-got-26-thousand-visitors
 - <add_here>
 
 ## Contribute
